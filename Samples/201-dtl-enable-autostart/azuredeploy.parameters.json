@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "labName": {
-      "value": "MyLab1"
+      "value": "SestarisCorp-Lab"
     },
     "regionId": {
-      "value": "westcentralus"
+      "value": "brazilsouth"
     }
   }
 }
