@@ -17,7 +17,7 @@
       "type": "microsoft.devtestlab/labs/schedules",
       "properties": {
         "status": "Enabled",
-        "timeZoneId": "Pacific Standard Time",
+        "timeZoneId": "SA Western Standard Time",
         "weeklyRecurrence": {
           "time": "0800",
           "weekdays": [
